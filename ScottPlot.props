@@ -1,0 +1,5 @@
+<Project>
+    <ItemGroup>
+        <PackageReference Include="ScottPlot" Version="5.0.55" />
+    </ItemGroup>
+</Project>
