@@ -1,0 +1,5 @@
+<Project>
+    <ItemGroup>
+        <PackageReference Include="Microsoft.ML.Probabilistic.Compiler" Version="0.4.2504.701" />
+    </ItemGroup>
+</Project>
