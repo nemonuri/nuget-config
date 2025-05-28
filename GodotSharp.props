@@ -1,0 +1,7 @@
+<Project>
+    <ItemGroup>
+        <PackageReference Include="GodotSharp" Version="$(PackageVersion_GodotSharp)" /> 
+        <PackageReference Include="GodotSharpEditor" Version="$(PackageVersion_Godot_NET_Sdk)" />
+        <PackageReference Include="Godot.SourceGenerators" Version="$(PackageVersion_Godot_SourceGenerators)" />
+    </ItemGroup>
+</Project>
